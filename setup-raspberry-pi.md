@@ -6,7 +6,7 @@ Create a conda environment to run the python codes.
 
 ## Step 1: Audio Files
 Modify  ... to consider your output file destination and execute on conda environment.  
-Execute on conda envrionment using:    
+Execute on conda envrionment using:      
 **python ...**
 
 This code records audio of specified duration and stores it in the assigned destination folder after execution.  
@@ -14,7 +14,7 @@ This code records audio of specified duration and stores it in the assigned dest
 
 ## Step 2: Transcription and Analysis
 Modify ... to consider your output file destination and model specs. 
-Execute ... and ... simultaneously on different ternimals.
+Execute ... and ... simultaneously on different ternimals.  
 Terminal 1: **python ...**  
 Terminal 2: **python ...**  
 ... obtains the transcript using selected ASR model and calculates the WER, GFLOPs and Self CPU time.
