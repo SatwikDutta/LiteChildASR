@@ -1,7 +1,7 @@
 # Work in Progress! 
 # **Guidelines for Raspberry Pi SetUp and Execution**  
-*... -> will be replaced with python file names*
-**Preliminary Steps:**  
+*... -> will be replaced with python file names*  
+## Preliminary Steps:
 Create a folder on the Raspberry Pi to store python codes.  
 Create a conda environment to run the python codes.  
 
